@@ -11,7 +11,7 @@ export const IS_SHOW_RESTART = false;
 // 首页配置
 export const homeConfig = {
   // 标题
-  title: '付念念小宝贝专属',
+  title: '付念念小宝贝的专属',
   // 留言，数组的每一项代表一行
   messages: [
     { key: 'a', wording: ' hi 付念念同学', },
