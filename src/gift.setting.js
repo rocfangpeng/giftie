@@ -11,12 +11,12 @@ export const IS_SHOW_RESTART = false;
 // 首页配置
 export const homeConfig = {
   // 标题
-  title: '付念念小宝贝专属抽奖',
+  title: '付念念小宝贝专属',
   // 留言，数组的每一项代表一行
   messages: [
-    { key: 'a', wording: '这是付念念专属抽奖系统', },
-    { key: 's', wording: '仅限2023年2月14日使用', },
-    { key: 'd', wording: '然后，往下滑，看看都有什么奖品', },
+    { key: 'a', wording: ' hi 付念念同学', },
+    { key: 's', wording: '这次的礼物，换个形式给你', },
+    { key: 'd', wording: '然后，往下滑，选择权交给你', },
   ],
   // 最终解释权归属人
   owner: '房鹏',
